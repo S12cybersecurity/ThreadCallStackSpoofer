@@ -1,4 +1,4 @@
-# Call Stack Spoofer
+![callstackspoofer](https://github.com/user-attachments/assets/ea7f7316-cea6-42bc-a742-348c309b5113)# Call Stack Spoofer
 
 ## Overview
 Call Stack Spoofer is a Windows-based tool that modifies the call stack of a suspended thread by injecting user-specified memory addresses. This is useful for stack spoofing, debugging, and research on process execution flow manipulation.
@@ -10,6 +10,9 @@ Call Stack Spoofer is a Windows-based tool that modifies the call stack of a sus
 - Includes a help option (`-h`) for guidance.
 
 ## Usage
+
+![callstackspoofer](https://github.com/user-attachments/assets/6c95f2ec-bf3f-4b1b-b832-42fa4525f39e)
+
 ### **Command Syntax**
 ```
 CallStackSpoofer.exe <addr1> <addr2> ...
